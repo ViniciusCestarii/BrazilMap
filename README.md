@@ -1,4 +1,4 @@
-# To do: Fix latitude and longitude
+To do: Fix latitude and longitude
 
 # Getting Started with Create React App
 
